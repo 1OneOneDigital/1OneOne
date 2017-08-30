@@ -1,30 +1,40 @@
 # 1OneOne
 Globally Accessible Disaster Response Solution for citizens/NGOs/1st Responders/Governments
 
-As an outside observer of many disaster situations, consuming specifics mostly from news media, one of the key observations I have made is that "WE HAVE NOT YET ENTERED THE DIGITAL AGE" as far as disaster response is
-concerned!
+---------------------------------------------
+In Brief
+---------------------------------------------
+As an outside observer of many disaster situations, consuming specifics mostly from news media, one of the key observations I have made is that "WE HAVE NOT YET ENTERED THE DIGITAL AGE" as far as disaster response is concerned! The goal of this project would be to build a solution **not as a substitute to, but rather to complement and help optimize existing disaster response and recovery efforts**.
 
 Case-in-point, with Hurricane Harvey battering Texas, people who needed help, would dial 911 and if they were lucky enough to get through and reach a voice prompt, in many instances wait time was 45 minutes or more because their resources were stretched too thin! Some affected people/families relied on social media to send their pleas for help, and in many such cases social crowd had a very effective response to the situation. However, not everyone is twitter savvy or well connected on Facebook and know how to tag their posts so that it does not get drowned in a stream of millions of posts happening on these networks. 
 
 Also in one of the radio interviews a Police Chief of Houston (?) was asked about all 911 being stretched too thin and not able to handle call volume. Interviewer also brought up that many people are sending their pleas for help on social media. **In response, police Chief's response was that they do not have capacity or staff trained to find needles in this haystack of social media chatter (words are my representation of the police chief response since I do not have exact quote.**
 
-Now shifting focus away from Houston a little bit, around same time there is a major flooding situation happening in South Asia (Eastern India, Bangladesh ....) where **tens of millions of people are affected by floods and some 1000/1500 people have perished!** Talk about Tsunamis in Asia, earthquake in Haiti and many many more disasters where scale is so huge that no traditional 911 type of system can effectively respond to the situation. 
+Now shifting focus away from Houston a little bit, around same time there is a major flooding situation happening in South Asia (Eastern India, Bangladesh ....) where **tens of millions of people are affected by floods and some 1000/1500 people have perished!** Talk about Tsunamis in Asia, earthquake in Haiti, Katerina, Sandy, and many many more disasters where scale is so huge that no traditional 911 type of system can effectively respond to the situation. 
 
 Hence, the though is born that we really need a new solution for the Digital Age - a solution that can save lives in immediate aftermath of the disaster, and provide a common platform for recovery efforts.
 
 ---------------------------------------------
 Why Open Source?
 ---------------------------------------------
-I know that there is plenty of money being spent on disaster response and recovery efforts everytime there is a disaster, and someone with effective solution and plenty of "reach" to get necessary contracts signed could make enormous amount of money by offering this type of solution "as a service" if they target western economies. However, disaster does not strike based on people's economic status or their geography - on the contrary, when distaster strikes, poorer people are harmed much more disproportionately. **So one of the key goal here is that whatever solution we can build as "contributors" of this open source project, it should be available and accessible to everyone and everywhere without their financial status or their government's ability to pay for it.** 
+I know that there is plenty of money being spent on disaster response and recovery efforts everytime there is a disaster, and someone with effective solution and plenty of "reach" to get necessary contracts signed could make enormous amount of money by offering this type of solution "as a service" if they target western economies. However, disaster does not strike based on people's economic status or their geography - on the contrary, when distaster strikes, poorer people are harmed much more disproportionately. 
+
+**One of the key goal here is that whatever solution we can build as "contributors" of this open source project, it should be available and accessible to everyone and everywhere without their financial status or their government's ability to pay for it.** 
+
+I do not have any idea or plan for monetary reward for contributors (including myself). If monetary value is achieved throuh As-a-Service models at some point, I will personally make sure that it is equitable for contributors of this project. However, considering that first and foremost goal is to make this system accessible irrespective of financial resources available, I have hard imagining a meaningful as-a-service model where price is not a barrier to entry. I am no expert on open source licensing model, but based on my research, I chose GNU AGPL license at the beginning of this project. 
 
 ---------------------------------------------
 The Road-map:
 ---------------------------------------------
-This is just the beginning. Over last few days (end of August 2017), I have started putting together a wish list, and want to build one Deck (for those of us who don't like to read plain text READMEs) to attract potential contributors into this project and help build this solution.
+This is just the beginning. Over last few days (end of August 2017), I have started putting together a wish list, and want to build one Deck (for those of us who don't like to read plain text READMEs) to attract potential contributors into this project and help build this solution. I imagine building a core team of 8 to 10 contributors/committers.
+
+While the project scope seem too broad to some, based on my 2 decades of experience in IT, I believe everything outlined below in the "initial thoughts" is very much attainable.
 
 ---------------------------------------------
 Initial thoughts:
 ---------------------------------------------
+This is not a complete list. I would like to solicit ideas for experts in the field, and I am certain that contributors to this project will bring whole lot of charm to make this otherwise boring list of thoughts listed below shine! 
+
 - Build a white-label-ready, cloud-ready disaster portal that can be readily available for deloyment annd use across various geographies
 by local/state/federal governments (if they chose to), by NGOs, or by pretty much anybody else. This will allow local administrators to set geographic boundaries of the areas of interest or areas they serve.
 - Build a core router at 1OneOne.com / 1OneOne.org to bind all these deplyments and keep track of geographic boundaries catered by each deployment.
