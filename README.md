@@ -21,7 +21,7 @@ I know that there is plenty of money being spent on disaster response and recove
 
 **One of the key goal here is that whatever solution we can build as "contributors" of this open source project, it should be available and accessible to everyone and everywhere without their financial status or their government's ability to pay for it.** 
 
-I do not have any idea or plan for monetary reward for contributors (including myself). If monetary value is achieved throuh As-a-Service models at some point, I will personally make sure that it is equitable for contributors of this project. However, considering that first and foremost goal is to make this system accessible irrespective of financial resources available, I have hard imagining a meaningful as-a-service model where price is not a barrier to entry. I am no expert on open source licensing model, but based on my research, I chose GNU AGPL license at the beginning of this project. 
+I do not have any idea or plan for monetary reward for contributors (including myself). If monetary value is achieved throuh As-a-Service models at some point, I will personally make sure that it is equitable for contributors of this project. However, considering that first and foremost goal is to make this system accessible irrespective of financial resources available, I have hard time imagining a meaningful commercial as-a-service model where price is not a barrier to entry. I am no expert on open source licensing model, but based on my research, I have chosen GNU AGPL license at the beginning of this project. 
 
 ---------------------------------------------
 The Road-map:
